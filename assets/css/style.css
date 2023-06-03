@@ -117,6 +117,10 @@
     width: 10vw;
     height: 10vh;
 }
+.btn .btn-comprar{
+    color: white;
+    text-decoration: none;
+}
 .Container-midlabel{
     display: flex;
     flex-direction: column;
